@@ -1,0 +1,7 @@
+# Exclude personal resume / cover letter PDF from public repository
+20242014_신정안_자기소개서.pdf
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
